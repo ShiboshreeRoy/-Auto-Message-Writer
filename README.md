@@ -1,4 +1,3 @@
-Here’s a comprehensive **README.md** file for your Auto Message Writer project:
 
 ---
 
@@ -34,8 +33,8 @@ pip install pyautogui
 
 ### Clone the Repository
 ```bash
-git clone https://github.com/yourusername/auto-message-writer.git
-cd auto-message-writer
+git clone https://github.com/ShiboshreeRoy/-Auto-Message-Writer.git
+cd Auto-Message-Writer
 ```
 
 ---
@@ -44,7 +43,7 @@ cd auto-message-writer
 1. **Run the Application:**
    Execute the script:
    ```bash
-   python auto_message_writer.py
+   python Auto-Message-Writer.py
    ```
 
 2. **Select a Message Template:**
@@ -62,8 +61,10 @@ cd auto-message-writer
 ---
 
 ## GUI Preview
-![App Preview](https://your-image-link.com)
-
+**Project Light Theme Version:**
+![App Preview](./Project_Light_version.png)
+**Project Dark Theme Version:**
+![App Preview](./Project_dark_version.png)
 ---
 
 ## Shortcuts
